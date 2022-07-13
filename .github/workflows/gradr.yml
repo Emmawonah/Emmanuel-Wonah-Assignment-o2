@@ -56,7 +56,7 @@ jobs:
       if: always()
       uses: exam-01-practice/jest-to-sheets@v2
       with:
-        challenge: 'ch-1;ch-2;ch-3'
+        challenge: 'ch-1;ch-2;ch-3
         lang: javascript
         server: https://api.sheetson.com/v2/sheets
         sheetid: 1Qb5Ovjy1l2UG94Cht2govguYX5fpCIgoTKPUd2ufMm4
